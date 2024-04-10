@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>ibomma</title>
+ 
+  <link rel="stylesheet" href="ibomma.css">
+ </head>
+ <body>
+  <!-- header sec-->
+  <div id="header">
+     <img src="logo.png" width="100px";height="50px";>
+  </div>
+  <!-- slogan sec-->
+  <div class="slogan">
+     <div>Where Quality & Clarity Matters</div>
+     <p>Watch Telugu movies in HD, exclusively available on iBOMMA.COM<br>
+		Developed for smartphones, tablets and PCs.</p>
+ </div>
+ <!--main container(grid layout) -->
+ <div class="gridbox">
+      <!--sub cont (grid item 1) -->
+	  <div>
+	  <img src="dootha.jpg"> <br>
+	  <a href="https://bet.ibomma.link/te-a1cwn/dhootha-2023-kr7hb-telugu-movie-watch-online.html">Dootha</a>
+	  <div>2023</div>
+    </div>
+	<!--sub cont (grid item 2)-->
+	<div>
+	<img src="leo.jpg">
+     <br><a href="https://bet.ibomma.link/te-a1cwn/leo-2023-pcf3d-telugu-movie-watch-online.html">Leo</a>
+	 <div>2023</div>
+	 </div>
+	 <!--sub cont (grid item 3)-->
+	 <div>
+	 <img src="RRR.jpg">
+	 <br>
+	 <a href="https://leo.ibomma.day/d/RRR-telugu-2022-khGr-watch-online.html">RRR</a>
+	 <div>2022</div>
+</div>
+ <!--sub cont (grid item 4) -->
+	  <div>
+	  <img src="dootha.jpg"> <br>
+	  <a href="https://bet.ibomma.link/te-a1cwn/dhootha-2023-kr7hb-telugu-movie-watch-online.html">Dootha</a>
+	  <div>2023</div>
+    </div>
+	<!--sub cont (grid item 5)-->
+	<div>
+	<img src="leo.jpg">
+     <br><a href="https://bet.ibomma.link/te-a1cwn/leo-2023-pcf3d-telugu-movie-watch-online.html">Leo</a>
+	 <div>2023</div>
+	 </div>
+	 <!--sub cont (grid item 6)-->
+	 <div>
+	 <img src="RRR.jpg">
+	 <br>
+	 <a href="https://leo.ibomma.day/d/RRR-telugu-2022-khGr-watch-online.html">RRR</a>
+	 <div>2022</div>
+</div>
+ <!--sub cont (grid item 7) -->
+	  <div>
+	  <img src="dootha.jpg"> <br>
+	  <a href="https://bet.ibomma.link/te-a1cwn/dhootha-2023-kr7hb-telugu-movie-watch-online.html">Dootha</a>
+	  <div>2023</div>
+    </div>
+	<!--sub cont (grid item 8)-->
+	<div>
+	<img src="leo.jpg">
+     <br><a href="https://bet.ibomma.link/te-a1cwn/leo-2023-pcf3d-telugu-movie-watch-online.html">Leo</a>
+	 <div>2023</div>
+	 </div>
+	 <!--sub cont (grid item 9)-->
+	 <div>
+	 <img src="RRR.jpg">
+	 <br>
+	 <a href="https://leo.ibomma.day/d/RRR-telugu-2022-khGr-watch-online.html">RRR</a>
+	 <div>2022</div>
+</div>
+ <!--sub cont (grid item 10) -->
+	  <div>
+	  <img src="dootha.jpg"> <br>
+	  <a href="https://bet.ibomma.link/te-a1cwn/dhootha-2023-kr7hb-telugu-movie-watch-online.html">Dootha</a>
+	  <div>2023</div>
+    </div>
+	<!--sub cont (grid item 11)-->
+	<div>
+	<img src="leo.jpg">
+     <br><a href="https://bet.ibomma.link/te-a1cwn/leo-2023-pcf3d-telugu-movie-watch-online.html">Leo</a>
+	 <div>2023</div>
+	 </div>
+	 <!--sub cont (grid item 12)-->
+	 <div>
+	 <img src="RRR.jpg">
+	 <br>
+	 <a href="https://leo.ibomma.day/d/RRR-telugu-2022-khGr-watch-online.html">RRR</a>
+	 <div>2022</div>
+</div>
+</div>
+ </body>
+</html>
